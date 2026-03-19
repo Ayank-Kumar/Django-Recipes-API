@@ -1,0 +1,19 @@
+# I think the files with . are hidden files
+
+# git
+.git
+.gitignore
+
+# docker
+.docker
+
+
+# Python
+app/py__cache__/
+app/*/__pycache__/
+app/*/*/__pycache__/
+app/*/*/*/__pycache__/
+.env/
+.venv/
+venv/
+
